@@ -8,7 +8,7 @@
   <h3 align="center">The Laughing Corp</h3>
 
   <p align="center">
-    The maker of awesome open-source projects.
+    :D
     <br />
     <a href="https://github.com/thelaughingcorp"><strong>Learn more »</strong></a>
     <br />
@@ -19,6 +19,5 @@
     ·
     <a href="https://github.com/thelaughingcorp/.github/issues">Issues</a>
     ·
-    <a href="https://thelaughingcorp.com/roadmap">Roadmap</a>
   </p>
 </p>
