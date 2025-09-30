@@ -1,12 +1,24 @@
-## Hi there 👋
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://github.com/thelaughingcorp">
+   <img src="https://github.com/thelaughingcorp/.github/blob/main/logo.svg?raw=true" alt="Logo" width="200">
 
-<!--
+  </a>
 
-**Here are some ideas to get you started:**
+  <h3 align="center">The Laughing Corp</h3>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <p align="center">
+    The maker of awesome open-source projects.
+    <br />
+    <a href="https://github.com/thelaughingcorp"><strong>Learn more »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/thelaughingcorp/.github/discussions">Discussions</a>
+    ·
+    <a href="https://thelaughingcorp.com">Website</a>
+    ·
+    <a href="https://github.com/thelaughingcorp/.github/issues">Issues</a>
+    ·
+    <a href="https://thelaughingcorp.com/roadmap">Roadmap</a>
+  </p>
+</p>
