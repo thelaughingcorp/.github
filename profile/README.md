@@ -15,7 +15,7 @@
     <br />
     <a href="https://github.com/thelaughingcorp/.github/discussions">Discussions</a>
     ·
-    <a href="https://kimono.app">Website</a>
+    <a href="https://kimino.app">Website</a>
     ·
     <a href="https://github.com/thelaughingcorp/.github/issues">Issues</a>
     ·
